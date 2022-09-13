@@ -1,13 +1,13 @@
 # Some stuff
 
-- 👋 Hi
-- Do you like nuggets?
+- Hi
+- Do not ask about my username
 
 # Stuff
 
-- Trying to make a discord bot
-- **Dark Mode**
+- GAVE UP ON MAKING A DISCORD BOT.
+- **Dark Mode? What's that?**
 - ***Portal 1 and Portal 2 Player***
 
-## Useless stuff
-- Nothing
+## stuff
+- rrryfoo#8618
