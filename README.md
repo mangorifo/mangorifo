@@ -3,7 +3,7 @@
 I have been learning html for a long time.  
 * ✉️  You can contact me at [rrryfoo@prof-rrryfoo.tk](mailto:rrryfoo@prof-rrryfoo.tk) 
 * 🚀  I'm currently working on [My website](http://prof-rrryfoo.tk) 
-* 🧠  I'm learning HTML, CSS, JS 
+* 🧠  I'm learning HTML, CSS, JS, BAT
 * 🤝  I'm open to collaborating on anything!
 
 <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
