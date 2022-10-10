@@ -2,9 +2,8 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=mangorifo&show_icons=true&theme=dark&count_private=true)
 
 
-# Some stuff
+# Hello
 
-- Hi
 - Do not ask about my username
 
 # Stuff
@@ -13,5 +12,5 @@
 - **Dark Mode? What's that?**
 - ***Portal 1 and Portal 2 Player***
 
-## stuff
+## discord username 
 - rrryfoo#8618
