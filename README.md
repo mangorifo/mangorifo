@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api/top-langs?username=mangorifo
+https://github-readme-stats.vercel.app/api/top-langs?username=mangorifo&langs_count=10
 
 
 
