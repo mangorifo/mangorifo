@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api/top-langs?username=mangorifo&langs_count=10
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangorifo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
