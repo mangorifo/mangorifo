@@ -10,7 +10,9 @@ I have been learning html for a long time.
 *   🚀  I'm currently working on [My website](http://prof-rrryfoo.tk)
 *   🧠  I'm learning HTML, CSS, JS
 *   🤝  I'm open to collaborating on anything!<a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
