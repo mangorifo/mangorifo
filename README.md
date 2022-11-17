@@ -2,7 +2,7 @@
 ## Website Developer, Portal 2 Mapper, Gamer  
 I have been learning html for a long time.  
 * ✉️  You can contact me at [rrryfoo@prof-rrryfoo.tk](mailto:rrryfoo@prof-rrryfoo.tk) 
-* 🚀  I'm currently working on my [discord bot](https://prof-rrryfoo.tk/mbrdc)
+* 🚀  I'm currently working on my [discord bot](https://discord.ayakads.cf)
 * 🧠  I'm learning HTML, CSS, JS, BAT
 * 🤝  I'm open to collaborating on anything!
 
