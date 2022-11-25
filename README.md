@@ -5,8 +5,7 @@ I have been learning html for a long time.
 * 🚀  I'm currently working on my [discord bot](https://discord.ayakads.cf)
 * 🧠  I'm learning HTML, CSS, JS, BAT
 * 🤝  I'm open to collaborating on anything!
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rrryfoo)](https://github.com/mangorifo)
 <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
 ### Skills  
 
