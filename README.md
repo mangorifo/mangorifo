@@ -6,7 +6,7 @@ I have been learning html for a long time.
 * 🚀  I'm currently working on my [discord bot](https://discord.ayakads.cf)
 * 🧠  I'm learning HTML, CSS, JS, BAT
 * 🤝  I'm open to collaborating on anything!\
-[![wakatime](https://wakatime.com/badge/user/f317936d-7cef-48e9-b689-e032e3d38ca9.svg)](https://wakatime.com/@f317936d-7cef-48e9-b689-e032e3d38ca9)\
+[![wakatime](https://wakatime.com/badge/user/f317936d-7cef-48e9-b689-e032e3d38ca9.svg?style=for-the-badge)](https://wakatime.com/@f317936d-7cef-48e9-b689-e032e3d38ca9)\
 <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
 ### Skills  
 
@@ -23,4 +23,4 @@ I have been learning html for a long time.
 <a href="http://www.github.com/mangorifo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mangorifo&stroke=64748b&background=171717&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 <a href="http://www.github.com/mangorifo"><img src="https://activity-graph.herokuapp.com/graph?username=mangorifo&bg_color=171717&color=64748b&line=ef4444&point=64748b&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/mangorifo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangorifo&langs_count=10&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Most%20Used%20Programming%20Languages" alt="Top Langs" /></a>\
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rrryfoo)](https://github.com/mangorifo)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rrryfoo&v=2)](https://github.com/mangorifo)
