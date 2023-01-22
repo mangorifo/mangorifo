@@ -1,10 +1,9 @@
 
 # Hi!
 ## Website Developer, Portal 2 Mapper, Gamer  
-I have been learning html for a long time.  
 * ✉️  You can contact me at [rrryfoo@prof-rrryfoo.tk](mailto:rrryfoo@prof-rrryfoo.tk) 
-* 🚀  I'm currently working on my [discord bot](https://discord.ayakads.cf)
-* 🧠  I'm learning HTML, CSS, JS, BAT
+* 🚀  I'm currently working on [SobseedPS](https://github.com/sobrooms)
+* 🧠  I'm learning Javascript, Typescript, Python, Java, Rust
 * 🤝  I'm open to collaborating on anything!\
 [![wakatime](https://wakatime.com/badge/user/f317936d-7cef-48e9-b689-e032e3d38ca9.svg?style=for-the-badge)](https://wakatime.com/@f317936d-7cef-48e9-b689-e032e3d38ca9)\
 <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
