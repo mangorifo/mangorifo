@@ -11,7 +11,8 @@
 [![skil issues](https://skillicons.dev/icons?i=ts,js,java&perline=6)](#)
 
 ## Other
-[![skil issues](https://skillicons.dev/icons?i=vscode,idea,N,e,w,Line,electron,tauri,nodejs&perline=6)](#)
+[![skil issues](https://skillicons.dev/icons?i=vscode,idea&perline=6)](#)
+[![skil](https://skillicons.dev/icons!i=electron,tauri,nodejs&perline=6)](#)
 
 ### Social 
  
