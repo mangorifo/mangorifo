@@ -13,7 +13,7 @@
 ## Other
 [![skil issues](https://skillicons.dev/icons?i=vscode,idea&perline=6)](#)
 
-[![skil](https://skillicons.dev/icons?i=electron,tauri&nodejs,bots&perline=6)](#)
+[![skil](https://skillicons.dev/icons?i=electron,tauri,nodejs,bots&perline=6)](#)
 
 [![skil issues](https://skillicons.dev/icons?i=unreal,godot&perline=6)](#)
 
