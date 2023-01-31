@@ -8,14 +8,14 @@
 <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
 # Skills  
 ## Languages
-[![skil issues](https://skillicons.dev/icons?i=ts,js,java&perline=6)](#)
+[![skil issues](https://skillicons.dev/icons?i=ts,js,java,cs&perline=6)](#)
 
 ## Other
 [![skil issues](https://skillicons.dev/icons?i=vscode,idea&perline=6)](#)
 
 [![skil](https://skillicons.dev/icons?i=electron,tauri,nodejs,bots&perline=6)](#)
 
-[![skil issues](https://skillicons.dev/icons?i=unreal,godot&perline=6)](#)
+[![skil issues](https://skillicons.dev/icons?i=unity,godot&perline=6)](#)
 
 ### Social 
  
