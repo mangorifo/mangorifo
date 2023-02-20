@@ -2,20 +2,21 @@
 # Hi!
 * ✉️  You can contact me at [rrryfoo@prof-rrryfoo.tk](mailto:rrryfoo@prof-rrryfoo.tk) 
 * 🚀  I'm currently working on [SobseedPS](https://github.com/sobrooms)
-* 🧠  I'm learning Javascript, Typescript, Python, Java, Rust
+* 🧠  I'm learning Javascript, Typescript, Python, Java, Rust, C#
 * 🤝  I'm open to collaborating on anything!\
 [![wakatime](https://wakatime.com/badge/user/f317936d-7cef-48e9-b689-e032e3d38ca9.svg?style=for-the-badge)](https://wakatime.com/@f317936d-7cef-48e9-b689-e032e3d38ca9)\
 <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mangorifo?logo=github&style=for-the-badge&color=ef4444&labelColor=171717" /></a>
-# Skills  
-## Languages
-[![skil issues](https://skillicons.dev/icons?i=ts,js,java,cs&perline=6)](#)
+# Languages
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,java,cs&perline=6)](#)
 
-## Other
-[![skil issues](https://skillicons.dev/icons?i=vscode,idea&perline=6)](#)
+# Code Editors
+[![Code Editors](https://skillicons.dev/icons?i=vscode,idea,rider&perline=6)](#)
 
-[![skil](https://skillicons.dev/icons?i=electron,tauri,nodejs,bots&perline=6)](#)
+# Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=electron,tauri,nodejs,bots,nextjs,react&perline=6)](#)
 
-[![skil issues](https://skillicons.dev/icons?i=unity,godot&perline=6)](#)
+# Game Engines
+[![Game Engines](https://skillicons.dev/icons?i=unity,unreal&perline=6)](#)
 
 ### Social 
  
