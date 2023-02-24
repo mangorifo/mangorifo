@@ -23,7 +23,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=ts,js,java,cs&perline=6)](#)
 
 ## Code Editors
-[![Code Editors](https://skillicons.dev/icons?i=vscode,idea&perline=6)](#)
+[![Code Editors](https://skillicons.dev/icons?i=vscode,idea,visualstudio&perline=6)](#)
 
 ## Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=electron,tauri,nodejs,bots,nextjs,react&perline=6)](#)
