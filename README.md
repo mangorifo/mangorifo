@@ -1,7 +1,7 @@
 # <p align=center>Hi!</p>
 <div align=center>
  
-✉️  You can contact me at [rrryfoo@prof-rrryfoo.tk](mailto:rrryfoo@prof-rrryfoo.tk)\
+✉️  You can contact me at [admin@rrryfoo.xyz](mailto:admin@rrryfoo.xyz)\
 🚀  I'm currently working on [SobseedPS](https://github.com/sobrooms)\
 🧠  I'm learning Javascript, Typescript, Python, Java, Rust, C#\
 🤝  I'm open to collaborating on anything!
