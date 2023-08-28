@@ -1,11 +1,12 @@
 # <p align=center>Hi!</p>
 <div align=center>
  
-✉️  You can contact me at [admin@rrryfoo.xyz](mailto:admin@rrryfoo.xyz)\
-🚀  I'm currently working on [SobseedPS](https://github.com/sobrooms)\
+✉️  You can contact me at [rrryfoo@sob.moe](mailto:rrryfoo@sob.moe)\
+🚀  I'm currently working on [nothing]()\
 🧠  I'm learning Javascript, Typescript, Python, Java, Rust, C#\
-🤝  I'm open to collaborating on anything!
- 
+🤝  I'm open to collaborating on anything! (If I can)
+
+
 </div>
 
 <div align=center>
