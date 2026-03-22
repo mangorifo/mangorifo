@@ -18,10 +18,10 @@ web :: https://rrryfoo.weirdos.info
 [![Code Editors](https://skillicons.dev/icons?i=vscode,idea,visualstudio&perline=6)](#)
 
 ## frameworks
-[![Frameworks](https://skillicons.dev/icons?i=electron,tauri,nodejs,bots,nextjs,react&perline=6)](#)
+[![Frameworks](https://skillicons.dev/icons?i=electron,express,nodejs,bots,nextjs&perline=6)](#)
 
 ## game engines
-[![Game Engines](https://skillicons.dev/icons?i=unity,unreal&perline=6)](#)
+[![Game Engines](https://skillicons.dev/icons?i=unity&perline=6)](#)
 
 # github stats
 
