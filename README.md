@@ -4,7 +4,7 @@ mail :: rrryfoo@sob.moe\
 discord :: rrryfoo\
 web :: https://rrryfoo.weirdos.info
 
-<a href="https://discord.com/users/rrryfoo#8618" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rrryfoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/716491639857872928" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mangorifo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rrryfoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
  
 [![wakatime](https://wakatime.com/badge/user/f317936d-7cef-48e9-b689-e032e3d38ca9.svg?style=for-the-badge)](https://wakatime.com/@f317936d-7cef-48e9-b689-e032e3d38ca9)
  
